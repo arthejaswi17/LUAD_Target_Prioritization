@@ -1,0 +1,13 @@
+metric,count
+Total final targets,12
+Primary targets,5
+Strong secondary targets,3
+Supporting targets,4
+Strong TCGA differential expression (|log2FC| >= 2),8
+Very strong TCGA differential expression (|log2FC| >= 3),2
+Independent GSE32863 validation (FDR < 0.05),12
+Strong LUAD dependencies,7
+FDR-supported LUAD-selective candidates,5
+Network-supported candidates,12
+Hallmark-supported candidates,7
+Significant Hallmark-supported candidates,7
