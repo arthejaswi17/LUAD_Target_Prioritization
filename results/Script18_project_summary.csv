@@ -1,0 +1,12 @@
+metric,value
+Final target count,12
+Primary targets,0
+Strong secondary targets,0
+Supporting targets,0
+Targets with strong TCGA differential expression,8
+Targets with very strong TCGA differential expression,2
+Targets independently validated in GSE32863,12
+Targets with strong LUAD dependency,7
+Targets with FDR-supported LUAD selectivity,5
+Targets with network support,12
+Targets with Hallmark support,7

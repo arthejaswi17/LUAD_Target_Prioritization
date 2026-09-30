@@ -1,0 +1,9 @@
+domain,limitation
+Transcriptomic analysis,TCGA-LUAD matched tumor-normal analysis establishes disease-associated transcriptional differences but does not by itself establish causality.
+Independent validation,"GSE32863 provides independent expression validation, but external validation remains expression-based rather than functional."
+DepMap dependency,DepMap dependency data are derived from cancer cell-line models and may not fully reproduce tumor microenvironment or patient biology.
+Dependency selectivity,Selectivity estimates depend on available model coverage; limited LUAD representation can reduce statistical power for individual genes.
+Network analysis,Network centrality reflects the selected interaction resource and network construction and should not be interpreted as proof of biological causality.
+Pathway analysis,Pathway enrichment reflects coordinated gene-set behavior and does not demonstrate that every prioritized target is independently responsible for pathway activation.
+Biological prioritization,The final target groups integrate multiple evidence domains but remain a computational prioritization framework rather than proof of therapeutic efficacy.
+Experimental validation,"Experimental assays are required to establish target perturbation effects, therapeutic selectivity and mechanistic causality."
