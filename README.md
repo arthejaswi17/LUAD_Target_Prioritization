@@ -1,6 +1,6 @@
 # Lung Adenocarcinoma Target Prioritization
 
-## About the Project
+## Introduction
 
 This project uses computational approaches to study gene expression in lung adenocarcinoma (LUAD), a type of lung cancer. The aim is to identify and prioritize candidate genes for further investigation using gene expression data and additional biological evidence.
 
