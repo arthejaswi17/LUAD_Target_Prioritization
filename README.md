@@ -20,7 +20,7 @@ This project uses computational approaches to study gene expression in lung aden
 - **Main dataset:** TCGA-LUAD
 - **Comparison dataset:** GSE32863
 - **Additional data source:** DepMap
-- **Methods:** Differential expression analysis, functional enrichment, network analysis, and evidence integration.
+- **Methods:** Differential expression analysis, functional enrichment and network analysis.
 
 ## Repository Structure
 
